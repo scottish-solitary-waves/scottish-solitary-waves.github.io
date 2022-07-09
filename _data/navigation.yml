@@ -1,9 +1,10 @@
 # main links links
 main:
- - title: "Home"
-    url: /home/
 
-- title: "Map"
+  - title: "Home"
+    url: /about/
+
+  - title: "Map"
     url: /map/
 
   - title: "Open notebook"
