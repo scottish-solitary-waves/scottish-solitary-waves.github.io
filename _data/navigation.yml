@@ -1,6 +1,9 @@
 # main links links
 main:
-  - title: "Map"
+ - title: "Home"
+    url: /home/
+
+- title: "Map"
     url: /map/
 
   - title: "Open notebook"
