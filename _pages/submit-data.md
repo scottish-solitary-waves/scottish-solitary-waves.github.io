@@ -17,7 +17,7 @@ permalink: /submit-data/
           
              <form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
    
-    <input type="file" name="attachment" accept="image/png, image/jpeg,image/jpg">
+    <input type="file" name="attachment" accept="image/png, image/jpeg, image/jpg, image/tiff">
             
         
 
