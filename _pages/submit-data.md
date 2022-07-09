@@ -1,7 +1,7 @@
 ---
 excerpt: "Make a submission to the project."
 sitemap: false
-permalink: /submit-data
+permalink: /submit-data/
 ---
 
 <div class="container">
