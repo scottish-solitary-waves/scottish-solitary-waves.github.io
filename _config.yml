@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Russel's Solitary Wave in the 21st Century"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Operated by Dr Momchil Terziev"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Russel's solitary wave in the 21st century"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A Royal Society of Edinburgh funded project on solitary waves on Scotland's canal system"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
