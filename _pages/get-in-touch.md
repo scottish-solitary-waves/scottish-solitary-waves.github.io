@@ -6,19 +6,7 @@ permalink: /get-in-touch
 ---
 
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mvolkgdb"
-  method="POST"
-  enctype="multipart/form-data"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your file:
-    <input type="file" name="upload">
-  </label>
-  <button type="submit">Send</button>
+<form action="https://getform.io/f/310b47b4-1a52-4f5a-900d-4a195c92727f" method="POST" enctype="multipart/form-data">
+   <input type="file" name="file">
+   <button type="submit">Send</button>
 </form>
