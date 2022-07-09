@@ -1,5 +1,4 @@
 ---
-title: "Make a submission to the project"
 excerpt: "Make a submission to the project."
 sitemap: false
 permalink: /submit-data
