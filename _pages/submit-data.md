@@ -4,7 +4,6 @@ sitemap: false
 permalink: /submit-data/
 ---
 
-# Contribute data to the project or get in touch
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. You fill these in if you would like me to get in touch with you. 
 
