@@ -1,5 +1,5 @@
 ---
-title: "Thank you"
+title: "Contribute data to the project"
 excerpt: "Make a submission to the project."
 sitemap: false
 permalink: /submit-data/
