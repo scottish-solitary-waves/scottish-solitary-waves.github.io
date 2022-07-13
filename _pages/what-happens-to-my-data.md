@@ -12,7 +12,7 @@ Note that any items you upload in the form will be inlcuded as an attachment. If
 I use open source frameworks to make this webpage work. Therefore, I rely on a number of different systems for hosting this webpage, building the different components of the webpage, including interactive data visualisations, as well as crowdsource data.  I plan on inlcuding a list of all tools I have made use somewhere in this webpage.
 As you can see below, when you submit data, I recieve an email from FormSubmit, a secure framework that prevents spam and collects no data on users. 
 
-I recieved ethical approval for collecting data from the University of Strathclyde. You can find more information, including the participant information sheet and consent form here: [Participant Information and consent forms](/files/Participant Information and consent forms.pdf)
+I recieved ethical approval for collecting data from the University of Strathclyde. You can find more information, including the participant information sheet and consent form here: [Participant Information and consent forms](https://scottish-solitary-waves.github.io/files//Participant Information and consent forms.pdf)
 
 ![Example email recieved using the form](https://user-images.githubusercontent.com/108955232/178751630-49820233-37e7-40f9-b82b-594d32c46889.png)
 
