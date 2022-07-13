@@ -15,6 +15,6 @@ Before submitting data, please see the [participant information sheet] and [what
     <input type="email" name="email" placeholder="Your email (optional)">
     <textarea name="message" placeholder="Details"></textarea>
     <input type="file" name="attachment" accept="image/png, image/jpeg">
-    <input type="hidden" name="_next" value="https:// scottish-solitary-waves.github.io/_pages/thank-you">
+    <input type="hidden" name="_next" value="https://scottish-solitary-waves.github.io/_pages/thank-you">
     <button type="submit">Send</button>
 </form>
