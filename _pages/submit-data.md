@@ -24,8 +24,12 @@ permalink: /submit-data/
      <div class="col">
       <textarea placeholder="Please add coordinates and/or comments here." class="form-control" name="message" rows="10" required></textarea>
     </div>
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Send</button>
+               
+              
+               
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Next</button>
     
- 
+ <input type="hidden" name="_next" value="https://docs.google.com/forms/d/e/1FAIpQLScAutcCYJjvJxL5FX7-SXAKRzmdF3li7hkPPaNtrdeuBBde4Q/viewform?usp=sf_link">
+               
   </form>
 </div>
