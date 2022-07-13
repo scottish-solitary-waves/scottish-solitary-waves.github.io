@@ -10,6 +10,8 @@ When you press 'Send', your data is automatically compiled into an email and sen
 
 Note that any items you upload in the form will be inlcuded as an attachment. If the file size is above 25MB, particularly if you wish to upload a video, then please get in touch with me directly and I will arrange for a larger file transfer using cloud storage. If you do not wish to include your email or personal information, you can upload such files to your cloud storage and add the link to the relevant file(s) in the form.
 
+Once I have recieved your data, I will go over the included information to make sure that we are indeed looking at solitary waves and that these are on Scotland's canals. If this step is passed, I will upload your data to this webpage, which also serves as a repository and tag your sighting on the map.
+
 I use open source frameworks to make this webpage work. Therefore, I rely on a number of different systems for hosting this webpage, building the different components of the webpage, including interactive data visualisations, as well as crowdsource data.  I plan on inlcuding a list of all tools I have made use somewhere in this webpage.
 As you can see below, when you submit data, I recieve an email from FormSubmit, a secure framework that prevents spam and collects no data on users. 
 
