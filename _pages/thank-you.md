@@ -1,4 +1,5 @@
 ---
+title: "Thank you"
 excerpt: "Thank you for submitting data."
 sitemap: false
 permalink: /thank-you/
