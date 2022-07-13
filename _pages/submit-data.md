@@ -19,7 +19,7 @@ Please note you can only submit one file at a time.
 <form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
     <input type="email" name="email" placeholder="Your name (optional)">
     <input type="email" name="email" placeholder="Your email (optional)">
-    <textarea name="message" placeholder="Details: if you are submitting data, please use this space to give more information, such as where and when the data was recorded. Alternatively, you may use this space to add questions or comments about the project." height="400px"></textarea>
+    <textarea name="message" placeholder="Details: if you are submitting data, please use this space to give more information, such as where and when the data was recorded. Alternatively, you may use this space to add questions or comments about the project." rows="10"></textarea>
     <input type="file" name="attachment" accept="image/png, image/jpeg, image/png, video/mp4, video/avi">
     <input type="hidden" name="_next" value="https://scottish-solitary-waves.github.io/thank-you">
     <button type="submit">Send</button>
