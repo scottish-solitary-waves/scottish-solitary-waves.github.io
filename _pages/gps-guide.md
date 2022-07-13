@@ -15,6 +15,7 @@ permalink: /gps-guide/
 
 Below I have copied an example near Linlithgow.
 
+ <img src="https://user-images.githubusercontent.com/108955232/178766457-bcd5a2f0-a1b4-48ef-ac05-da8481c41c8b.jpg"  width="90" height="200">
 
 ![Example image](https://user-images.githubusercontent.com/108955232/178766457-bcd5a2f0-a1b4-48ef-ac05-da8481c41c8b.jpg)
 
