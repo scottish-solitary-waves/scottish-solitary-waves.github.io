@@ -16,3 +16,4 @@ I recieved ethical approval for collecting data from the University of Strathcly
 ![Example email recieved using the form](https://user-images.githubusercontent.com/108955232/178751630-49820233-37e7-40f9-b82b-594d32c46889.png)
 
 
+<img src="https://user-images.githubusercontent.com/108955232/178751630-49820233-37e7-40f9-b82b-594d32c46889.png">
