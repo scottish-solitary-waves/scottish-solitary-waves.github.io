@@ -11,7 +11,7 @@ Please use the form below to get in touch or submit data to the project. The nam
 Before submitting data, please see the [participant information sheet](https://strath-my.sharepoint.com/:w:/g/personal/momchil_terziev_strath_ac_uk/EUfmzHZNOWBOj28cR7Sctu4BnK-v8HIP5KLb2JKwdlZVLA?e=SvgeCZ) and [what happens to my data](/what-happens-to-my-data/).
 
 The type of data sought:
-- GPS coordinates of solitary wave sightings. These are accepted from canal society members only in the absence of photographic evidence.
+- GPS coordinates of solitary wave sightings. These are accepted from canal society members only in the absence of photographic evidence. Please use [this guide](/gps-guide) if you are unsure how to obtain GPS coordinates.
 - Photos or videos of solitary waves on Scotland's canals. 
 
 Please note you can only submit one file at a time.
