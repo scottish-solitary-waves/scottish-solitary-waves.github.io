@@ -1,4 +1,8 @@
-# Thank you!
+---
+excerpt: "Thank you for submitting data."
+sitemap: false
+permalink: /thank-you/
+---
 
 Thank you very much for getting in touch and for your valuable contribution to the project. If you included your email address in the form, I will do my best to reply to you as soon as possible. 
 
