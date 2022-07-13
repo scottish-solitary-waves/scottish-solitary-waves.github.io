@@ -8,7 +8,7 @@ permalink: /submit-data/
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. You fill these in if you would like me to get in touch with you. 
 
-Before submitting data, please see the [participant information sheet](https://strath-my.sharepoint.com/:w:/g/personal/momchil_terziev_strath_ac_uk/EUfmzHZNOWBOj28cR7Sctu4BnK-v8HIP5KLb2JKwdlZVLA?e=SvgeCZ) and [what happens to my data].
+Before submitting data, please see the [participant information sheet](https://strath-my.sharepoint.com/:w:/g/personal/momchil_terziev_strath_ac_uk/EUfmzHZNOWBOj28cR7Sctu4BnK-v8HIP5KLb2JKwdlZVLA?e=SvgeCZ) and [what happens to my data](/what-happens-to-my-data/).
 
 Please note you can only submit one file at a time.
       
