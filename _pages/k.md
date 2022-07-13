@@ -1,5 +1,8 @@
 ![](RackMultipart20220713-1-nhtdts_html_bac4715c8d9b42b2.jpg)
 
+
+<iframe src="https://strath-my.sharepoint.com/:w:/g/personal/momchil_terziev_strath_ac_uk/EUfmzHZNOWBOj28cR7Sctu4BnK-v8HIP5KLb2JKwdlZVLA?e=SvgeCZ"></iframe>
+
 **Participant Information Sheet**
 
 **Name of department:** Naval Architecture, Ocean and Marine Engineering
