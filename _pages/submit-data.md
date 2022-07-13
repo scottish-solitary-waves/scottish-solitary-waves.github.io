@@ -9,6 +9,8 @@ permalink: /submit-data/
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. You fill these in if you would like me to get in touch with you. 
 
 Before submitting data, please see the [participant information sheet] and [what happens to my data].
+
+Please note you can only submit one file at a time.
       
 <form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
     <input type="email" name="email" placeholder="Your name (optional)">
