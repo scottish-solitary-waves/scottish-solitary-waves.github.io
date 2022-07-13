@@ -5,7 +5,14 @@ sitemap: false
 permalink: /gps-guide/
 ---
 
-Step 1: Open the maps app on your phone. This guide uses an android device as an example <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png" width="25%" height="25%>
-  
-  ![image](https://user-images.githubusercontent.com/108955232/178765205-991ecd4c-1cc3-4742-afe1-d7be934d544a.png | width=10 height=10)
+**Step 1**: Open the maps app on your phone. This guide uses an android device as an example 
+
+**Step 2**: Tap and hold at the location you observed a solitary wave
+
+**Step 3**: Either share a link to the location using the menu at the bottom of your screen or copy the coordinates appearing in the search bar.
+
+**Step 4**: Paste the link or coordinates in the [Contribute data](/submit-data/) form.
+
+
+![Example image](https://user-images.githubusercontent.com/108955232/178766457-bcd5a2f0-a1b4-48ef-ac05-da8481c41c8b.jpg)
 
