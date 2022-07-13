@@ -13,6 +13,8 @@ permalink: /gps-guide/
 
 **Step 4**: Paste the link or coordinates in the [Contribute data](/submit-data/) form.
 
+Below I have copied an example near Linlithgow.
+
 
 ![Example image](https://user-images.githubusercontent.com/108955232/178766457-bcd5a2f0-a1b4-48ef-ac05-da8481c41c8b.jpg)
 
