@@ -20,7 +20,7 @@ Please note you can only submit one file at a time.
     <input type="email" name="email" placeholder="Your name (optional)">
     <input type="email" name="email" placeholder="Your email (optional)">
     <textarea name="message" placeholder="Details: if you are submitting data, please use this space to give more information, such as where and when the data was recorded. Alternatively, you may use this space to add questions or comments about the project." height="200px"></textarea>
-    <input type="file" name="attachment" accept="image/png, image/jpeg">
+    <input type="file" name="attachment" accept="image/png, image/jpeg, image/png, video/mp4, video/avi">
     <input type="hidden" name="_next" value="https://scottish-solitary-waves.github.io/thank-you">
     <button type="submit">Send</button>
 </form>
