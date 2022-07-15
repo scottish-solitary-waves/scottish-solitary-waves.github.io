@@ -9,7 +9,13 @@ permalink: /thank-you/
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
   wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
   wvtag('gender', 'female');
+  wvtag('widget-style', {
+    className: 'wv-circle-small',
+    backgroundColor: '#F6F6F6',
+    contrast: 'wv-contrast-light'
+  });
 </script>
+
 Thank you very much for getting in touch and for your valuable contribution to the project. If you included your email address in the form, I will do my best to reply to you as soon as possible. 
 
 ##### Next steps:
