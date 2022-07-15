@@ -16,12 +16,7 @@ permalink: /submit-data/
   });
 </script>
 
-<script type="text/javascript">
-  function googleTranslateElementInit(){
-  new google.translate.TranlsateElement({pageLanguage: 'en'},
-  'google_translate_element');
-  }
-  </script>
+
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. Please fill these in if you would like me to get in touch with you. 
 
