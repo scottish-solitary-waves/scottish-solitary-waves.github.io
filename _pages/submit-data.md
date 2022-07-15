@@ -17,7 +17,7 @@ permalink: /submit-data/
 </script>
 
 
-<div id="google_translate_element"></div><script>
+<div id="google_translate_element" class="text-right"></div><script>
 
 function googleTranslateElementInit() {
 
