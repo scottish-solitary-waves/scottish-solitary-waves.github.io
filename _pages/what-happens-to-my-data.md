@@ -19,7 +19,7 @@ The purpose of this page is to explain what happens to submitted data through th
 
 When you press 'Send', your data is automatically compiled into an email and sent to me directly. That email will contain as much or as little information as you choose to include. If you add your name and email address, I will respond to you, even if it is just to say thanks. Otherwise, there is no way for me to respond since no personal information is collected. 
 
-Note that any items you upload in the form will be inlcuded as an attachment in the email mentioned above. If the file size is above 25MB, particularly if you wish to upload a video, then please get in touch with me directly and I will arrange for a larger file transfer using cloud storage. If you do not wish to include your email or personal information, you can upload such files to your cloud storage and add the link to the relevant file(s) in the form.
+Note that any items you upload in the form will be included as an attachment in the email mentioned above. If the file size is above 25MB, particularly if you wish to upload a video, then please get in touch with me directly and I will arrange for a larger file transfer using cloud storage. If you do not wish to include your email or personal information, you can upload such files to your cloud storage and add the link to the relevant file(s) in the form.
 
 Once I have recieved your data, I will go over the included information to make sure that we are indeed looking at solitary waves and that these are on Scotland's canals. If this step is passed, I will upload your data to this webpage, which also serves as a repository and tag your sighting on the map.
 
