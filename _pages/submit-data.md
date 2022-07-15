@@ -9,6 +9,11 @@ permalink: /submit-data/
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
   wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
   wvtag('gender', 'female');
+  wvtag('widget-style', {
+    className: 'wv-circle-small',
+    backgroundColor: '#F6F6F6',
+    contrast: 'wv-contrast-light'
+  });
 </script>
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. You fill these in if you would like me to get in touch with you. 
