@@ -1,6 +1,6 @@
 ---
-title: "Guide: How to find out  GPS"
-excerpt: "Guide: How to find out  GPS."
+title: "Guide: Find my GPS location using Google maps"
+excerpt: "Guide: Find my GPS location using Google maps."
 sitemap: false
 permalink: /gps-guide/
 ---
