@@ -4,6 +4,7 @@ excerpt: "Make a submission to the project."
 sitemap: false
 permalink: /submit-data/
 ---
+<div class="text-right">
 <script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
 <script>
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
@@ -15,7 +16,7 @@ permalink: /submit-data/
     contrast: 'wv-contrast-light'
   });
 </script>
-
+</div>
 
 <div id="google_translate_element" class="text-right"></div><script>
 
