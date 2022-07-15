@@ -9,4 +9,9 @@ author_profile: fasle
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
   wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
   wvtag('gender', 'female');
+  wvtag('widget-style', {
+    className: 'wv-circle-small',
+    backgroundColor: '#F6F6F6',
+    contrast: 'wv-contrast-light'
+  });
 </script>
