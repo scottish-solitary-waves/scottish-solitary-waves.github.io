@@ -4,6 +4,21 @@ excerpt: "Guide: Find my GPS location using Google maps."
 sitemap: false
 permalink: /gps-guide/
 ---
+<script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
+<script>
+  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
+  wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
+  wvtag('language', 'en-GB');
+  wvtag('gender', 'female');
+  wvtag('widget-style', {
+    className: 'wv-circle-small',
+    backgroundColor: '#F6F6F6',
+    contrast: 'wv-contrast-light'
+  });
+</script>
+<div class="text-right">
+<input type="button" value="Print this page" onClick="window.print()">
+</div>
 
 **Step 1**: Open the maps app on your phone. This guide uses an android device as an example 
 
