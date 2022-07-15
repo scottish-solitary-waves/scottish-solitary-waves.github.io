@@ -13,8 +13,9 @@ Note that any items you upload in the form will be inlcuded as an attachment. If
 
 Once I have recieved your data, I will go over the included information to make sure that we are indeed looking at solitary waves and that these are on Scotland's canals. If this step is passed, I will upload your data to this webpage, which also serves as a repository and tag your sighting on the map.
 
-I use open source frameworks to make this webpage work. Therefore, I rely on a number of different systems for hosting this webpage, building the different components of the webpage, including interactive data visualisations, as well as crowdsource data.  I plan on inlcuding a list of all tools I have made use somewhere in this webpage.
-As you can see below, when you submit data, I recieve an email from FormSubmit, a secure framework that prevents spam and collects no data on users. 
+I use open source frameworks to make this webpage work. Therefore, I rely on a number of different systems for hosting this webpage, building the different components of the webpage, including interactive data visualisations, as well as crowdsource data. I plan on inlcuding a list of all tools I have made use somewhere in this webpage. I have opted for this approach to have full control over and prevent monetisation of this webpage, which is why you are not asked to accept cookies or trackers when visiting this webpage. This means you should not see any ads while on this webpage. None of your data is recorded by your browser in any shape or form, making the data protection rules I have to comply with very light touch.
+
+As you can see below, when you submit data, I recieve an email from [FormSubmit](https://formsubmit.co/), a secure framework that prevents spam and collects no data on users. Note you will have to go through a [reCAPTCHA](https://www.google.com/recaptcha/about/). This is in place to prevent bots from highjacking the data submission system.
 
 I recieved ethical approval for collecting data from the University of Strathclyde. You can find more information, including the participant information sheet and consent form here: [Participant Information and consent forms](https://scottish-solitary-waves.github.io/files//Participant Information and consent forms.pdf)
 
