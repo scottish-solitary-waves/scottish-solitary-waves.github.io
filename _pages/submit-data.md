@@ -17,6 +17,21 @@ permalink: /submit-data/
 </script>
 
 
+<div id="google_translate_element"></div><script>
+
+function googleTranslateElementInit() {
+
+new google.translate.TranslateElement({
+
+pageLanguage: 'en'
+
+}, 'google_translate_element');
+
+}
+
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. Please fill these in if you would like me to get in touch with you. 
 
