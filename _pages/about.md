@@ -57,8 +57,8 @@ This webpage is a work in progress. Having set up the main elements I will need 
 
 I have done my best to make this webpage as accessible as possible. You can listen to the content of this webpage using the text-to-speech widget at the top left of this page. On the right hand side of this page, I have included a translation widget along with a button to print the content primarily to enable easy conversion to pdf of the content of each section. Please consider the environment before printing.
 
-If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. You can also get in touch informally through twitter https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev
+If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. You can also get in touch informally through twitter <img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev">
 
-https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social
-https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F
+<img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social">
+<img alt="Github repository" scr="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F">
 
