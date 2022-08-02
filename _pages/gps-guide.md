@@ -5,21 +5,22 @@ sitemap: false
 permalink: /gps-guide/
 ---
 
-<script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
-<script>
-  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
-  wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
-  wvtag('gender', 'female');
-  wvtag('widget-style', {
-    className: 'wv-circle-small',
-    backgroundColor: '#F6F6F6',
-    contrast: 'wv-contrast-light'
-  });
-</script>
+<div id="google_translate_element" class="text-right"></div><script>
 
-<div class="text-right">
-<input type="button" value="Print this page" onClick="window.print()">
-</div>
+function googleTranslateElementInit() {
+
+new google.translate.TranslateElement({
+
+pageLanguage: 'en'
+  
+  
+
+}, 'google_translate_element');
+
+}
+
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 **Step 1**: Open the maps app on your phone. This guide uses an android device as an example 
 
