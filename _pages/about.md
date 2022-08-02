@@ -10,6 +10,8 @@ redirect_from:
 
 # Under construction
 
+
+<div class="text-right">
 <script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
 <script>
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
@@ -21,5 +23,24 @@ redirect_from:
     contrast: 'wv-contrast-light'
   });
 </script>
+</div>
 
-<div class="flourish-embed" data-src="visualisation/10444684"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div id="google_translate_element" class="text-right"></div><script>
+
+function googleTranslateElementInit() {
+
+new google.translate.TranslateElement({
+
+pageLanguage: 'en'
+
+}, 'google_translate_element');
+
+}
+
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<div class="text-right">
+<input type="button" value="Print this page" onClick="window.print()">
+</div>
+
