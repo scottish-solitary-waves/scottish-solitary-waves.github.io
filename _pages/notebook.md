@@ -4,6 +4,9 @@ title: "Open notebook"
 permalink: /notebook/
 author_profile: fasle
 ---
+
+I will use this section of the webpage to document my progress throughout the project. The Gantt chart below shows the timeline as agreed with the RSE when bidding for the funding. 
+
 <script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
 <script>
   window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
