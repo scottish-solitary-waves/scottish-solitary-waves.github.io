@@ -57,7 +57,7 @@ I have done my best to make this webpage as accessible as possible. You can list
 
 If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. 
 
-You can also get in touch informally social media: <a href="https://twitter.com/m_terziev"><img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev"></a> <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
+You can also get in touch informally social media: <a href="https://twitter.com/m_terziev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @m_terziev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
 
 
 
