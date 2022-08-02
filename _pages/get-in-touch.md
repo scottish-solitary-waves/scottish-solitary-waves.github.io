@@ -1,9 +1,11 @@
 ---
 permalink: /get-in-touch/
-title: " "
+title: "Get in touch"
 excerpt: "Get in touch"
 author_profile: true
 ---
+
+Please use the form below to get in touch and I will do my best to reply to you as soon as possible.
 
 <form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
     <input type="email" name="email" placeholder="Your name">
