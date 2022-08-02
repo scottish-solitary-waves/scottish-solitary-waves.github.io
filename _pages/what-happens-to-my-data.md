@@ -4,17 +4,24 @@ excerpt: "What happens to my data?"
 sitemap: false
 permalink: /what-happens-to-my-data/
 ---
-<script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
-<script>
-  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
-  wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
-  wvtag('gender', 'female');
-  wvtag('widget-style', {
-    className: 'wv-circle-small',
-    backgroundColor: '#F6F6F6',
-    contrast: 'wv-contrast-light'
-  });
+
+<div id="google_translate_element" class="text-right"></div><script>
+
+function googleTranslateElementInit() {
+
+new google.translate.TranslateElement({
+
+pageLanguage: 'en'
+  
+  
+
+}, 'google_translate_element');
+
+}
+
 </script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 The purpose of this page is to explain what happens to submitted data through the [Contribute data](/submit-data) page. 
 
 When you press 'Send', your data is automatically compiled into an email and sent to me directly. That email will contain as much or as little information as you choose to include. If you add your name and email address, I will respond to you, even if it is just to say thanks. Otherwise, there is no way for me to respond since no personal information is collected. 
