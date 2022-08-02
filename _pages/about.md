@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Under construction
+# Welcome
+
+
 
 
 <div class="text-right">
@@ -24,6 +26,8 @@ redirect_from:
   });
 </script>
 </div>
+
+
 
 <div id="google_translate_element" class="text-right"></div><script>
 
