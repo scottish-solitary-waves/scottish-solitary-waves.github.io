@@ -53,11 +53,11 @@ Additionally, I will including my open notebook in the [Notebook](/notebook/) se
 
 This webpage is a work in progress. Having set up the main elements I will need to get the project off the ground, I will gradually include more information here and in the other sections of this webpage. 
 
-I have done my best to make this webpage as accessible as possible. You can listen to the content of this webpage using the text-to-speech widget at the top left of this page. On the right hand side of this page, I have included a translation widget along with a button to print the content primarily to enable easy conversion to pdf of the content of each section. Please consider the environment before printing.
+I have done my best to make this webpage as accessible as possible. You can listen to the content of this webpage using the text-to-speech widget at the top left of this page. Additionally, I have included a translation widget on the top right.
 
 If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. 
 
-You can also get in touch informally through: <a href="https://twitter.com/m_terziev"><img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev"></a> <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
+You can also get in touch informally social media: <a href="https://twitter.com/m_terziev"><img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev"></a> <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
 
 
 
