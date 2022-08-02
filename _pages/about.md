@@ -59,6 +59,6 @@ I have done my best to make this webpage as accessible as possible. You can list
 
 If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. You can also get in touch informally through twitter <img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev">
 
-<img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social">
+<img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw">
 <img alt="Github repository" scr="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F">
-
+<img alt="Website status" scr="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F">
