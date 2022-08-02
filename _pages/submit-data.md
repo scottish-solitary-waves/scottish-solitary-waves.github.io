@@ -33,6 +33,9 @@ pageLanguage: 'en'
 </script>
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+<div class="text-right">
+<input type="button" value="Print this page" onClick="window.print()">
+</div>
 
 Please use the form below to get in touch or submit data to the project. The name and email address fields are optional. Please fill these in if you would like me to get in touch with you. 
 
