@@ -11,8 +11,8 @@ You can also reach me through social media: <a href="https://twitter.com/m_terzi
 
 
 <form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
-    <input type="email" name="email" placeholder="Your name">
     <input type="email" name="email" placeholder="Your email">
+    <input type="name" name="name" placeholder="Your name">
     <textarea name="message" placeholder="Your message." rows="10"></textarea>
     <input type="hidden" name="_next" value="https://scottish-solitary-waves.github.io/thank-you">
     <button type="submit">Send</button>
