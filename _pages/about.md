@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: " "
 excerpt: "About "
 author_profile: true
 redirect_from: 
@@ -43,9 +43,7 @@ pageLanguage: 'en'
 </script>
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<div class="text-right">
-<input type="button" value="Print this page" onClick="window.print()">
-</div>
+# Welcome
 
 Welcome! This is the webpage for the Royal Society of Edinburgh-funded project '_Russel's solitary wave in the 21st century'_. The aim of the project is to investigate solitary waves, first documented by John Scott Russel in the 1800s. The project is based on computational research and citizen science. The former involves virtual recreation of the physics governing solitary wave generation by a boat, while the second part is centred around documenting the existence of solitary waves on Scotland's canals. 
 
