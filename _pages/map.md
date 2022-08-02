@@ -5,17 +5,23 @@ sitemap: false
 permalink: /map/
 ---
 
-<script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
-<script>
-  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
-  wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
-  wvtag('gender', 'female');
-  wvtag('widget-style', {
-    className: 'wv-circle-small',
-    backgroundColor: '#F6F6F6',
-    contrast: 'wv-contrast-light'
-  });
+
+<div id="google_translate_element" class="text-right"></div><script>
+
+function googleTranslateElementInit() {
+
+new google.translate.TranslateElement({
+
+pageLanguage: 'en'
+  
+  
+
+}, 'google_translate_element');
+
+}
+
 </script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1119344.690591351!2d-4.320820731347648!3d56.773526826003774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1657725689258!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
