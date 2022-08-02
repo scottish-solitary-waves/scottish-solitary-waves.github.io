@@ -56,5 +56,9 @@ Please note you can only submit one file at a time.
     <button type="submit">Send</button>
 </form>
 
-If you are visiting Scotland's waterways, please take care:
+
+
+If you are visiting Scotland's waterways, please take care around water. The rate of accidental drownings in Scotland is twice that of the UK average.
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The rate of accidental drownings in Scotland is twice that of the UK average.<br><br>To keep yourself safe around water, come along to our water safety open day and learn about the Water Safety Code this World <a href="https://twitter.com/hashtag/DrowningPrevention?src=hash&amp;ref_src=twsrc%5Etfw">#DrowningPrevention</a> Day.<a href="https://t.co/GWSXxmcq6w">https://t.co/GWSXxmcq6w</a> <a href="https://t.co/M53F0mxFgi">pic.twitter.com/M53F0mxFgi</a></p>&mdash; WaterSafetyScotland (@WaterSafetyScot) <a href="https://twitter.com/WaterSafetyScot/status/1547481269956759552?ref_src=twsrc%5Etfw">July 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
