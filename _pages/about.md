@@ -55,11 +55,13 @@ This webpage is a work in progress. Having set up the main elements I will need 
 
 I have done my best to make this webpage as accessible as possible. You can listen to the content of this webpage using the text-to-speech widget at the top left of this page. Additionally, I have included a translation widget on the top right.
 
-If you have any questions, comments, or if you would just like to get in touch, please visit the [Contribute data](/submit-data) page. 
+If you have any questions, comments, or if you would just like to get in touch, please click [here](/get-in-touch/). 
 
 You can also get in touch informally social media: <a href="https://twitter.com/m_terziev"><img alt="Follow me on twitter" src="https://img.shields.io/twitter/follow/m_terziev?style=social"></a>
   <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
 
+# Funding
 
+This project is funded by the Royal Society of Edinburgh and carried out by [Dr Momchil Terziev](https://momchil-terziev.github.io/) who is based at the [University of Strathclyde](https://pureportal.strath.ac.uk/en/persons/momchil-terziev). You can find more information about the funding at the [funder's webpage](https://rse.org.uk/37-researchers-supported-by-rse-awards/).
 
 Status: <a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a><img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
