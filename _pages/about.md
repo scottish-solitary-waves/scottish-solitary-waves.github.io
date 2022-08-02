@@ -59,7 +59,6 @@ If you have any questions, comments, or if you would just like to get in touch, 
 
 You can also get in touch informally through: <a href="https://twitter.com/m_terziev"><img alt="Twitter account" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_terziev"></a> <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
 
-<a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a>
 
-Status: <img alt="Website status" src="https://img.shields.io/website?url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F">
-<img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
+
+Status: <a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a><img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
