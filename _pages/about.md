@@ -10,22 +10,6 @@ redirect_from:
 
 
 
-<div class="text-right">
-<script async src="https://widget.websitevoice.com/xhBdUJNpEQ5ssC9QTAtj0w"></script>
-<script>
-  window.wvData=window.wvData||{};function wvtag(a,b){wvData[a]=b;}
-  wvtag('id', 'xhBdUJNpEQ5ssC9QTAtj0w');
-  wvtag('gender', 'female');
-  wvtag('widget-style', {
-    className: 'wv-circle-small',
-    backgroundColor: '#F6F6F6',
-    contrast: 'wv-contrast-light'
-  });
-</script>
-</div>
-
-
-
 <div id="google_translate_element" class="text-right"></div><script>
 
 function googleTranslateElementInit() {
@@ -52,8 +36,6 @@ To document waves, I have set up a [submission system](/submit-data/) where you 
 Additionally, I will including my open notebook in the [Notebook](/notebook/) section of this webpage. 
 
 This webpage is a work in progress. Having set up the main elements I will need to get the project off the ground, I will gradually include more information here and in the other sections of this webpage. 
-
-I have done my best to make this webpage as accessible as possible. You can listen to the content of this webpage using the text-to-speech widget at the top left of this page. Additionally, I have included a translation widget on the top right.
 
 If you have any questions, comments, or if you would just like to get in touch, please click [here](/get-in-touch/). 
 
