@@ -1,19 +1,14 @@
-<div class="container">
-  <h1>FormSubmit Demo</h1>
-  <form target="_blank" action="https://formsubmit.co/your@email.com" method="POST">
-    <div class="form-group">
-      <div class="form-row">
-        <div class="col">
-          <input type="text" name="name" class="form-control" placeholder="Full Name">
-        </div>
-        <div class="col">
-          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
-        </div>
-      </div>
-    </div>
-    <div class="form-group">
-      <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
-    </div>
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
-  </form>
-</div>
+---
+permalink: /get-in-touch/
+title: " "
+excerpt: "Get in touch"
+author_profile: true
+---
+
+<form method="POST" action="https://formsubmit.co/e2c7c392178a3b202e2eea1773e9695f" enctype="multipart/form-data">
+    <input type="email" name="email" placeholder="Your name">
+    <input type="email" name="email" placeholder="Your email">
+    <textarea name="message" placeholder="Your message." rows="10"></textarea>
+    <input type="hidden" name="_next" value="https://scottish-solitary-waves.github.io/thank-you">
+    <button type="submit">Send</button>
+</form>
