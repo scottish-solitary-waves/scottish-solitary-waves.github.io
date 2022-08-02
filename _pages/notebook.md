@@ -15,3 +15,5 @@ author_profile: fasle
     contrast: 'wv-contrast-light'
   });
 </script>
+
+<div class="flourish-embed" data-src="visualisation/10806589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
