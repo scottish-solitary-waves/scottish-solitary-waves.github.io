@@ -13,4 +13,4 @@ permalink: /map/
 
 | Longitude | Latitude | Location | Date Added | Additional information |
 | --------- | -------- | -------- | ---------- | ---------------------- |
-55.975044 |	-3.598019 | Linlithgow canal society |	05/08/2022 | Solitary waves are seen and felt by the Linlithgow Canal Society members frequently. They describe a single fore-aft movement of a lightly moored boat when another boat is approaching.|
+55.975044 |	-3.598019 | Linlithgow canal society |	05/08/2022 | Solitary waves are seen and felt by the Linlithgow Canal Society members frequently. They describe a single fore-aft movement of a lightly tethered boat when another boat is approaching.|
