@@ -7,7 +7,7 @@ permalink: /map/
 
 <div class="flourish-embed flourish-map" data-src="visualisation/10834254"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a><img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
+<img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"><img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
 
 # Data
 
