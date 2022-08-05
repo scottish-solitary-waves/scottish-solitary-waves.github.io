@@ -29,7 +29,7 @@ pageLanguage: 'en'
 
 # Welcome
 
-Welcome! This is the webpage for the Royal Society of Edinburgh-funded project '_Russel's solitary wave in the 21st century'_. The aim of the project is to investigate solitary waves, first documented by John Scott Russel in the 1800s. The project, carried out by Dr Momchil Terziev is based on computational research and citizen science. The former involves virtual recreation of the physics governing solitary wave generation by a boat, while the second part is centred around documenting the existence of solitary waves on Scotland's canals. 
+Welcome! This is the webpage for the Royal Society of Edinburgh-funded project '_Russel's solitary wave in the 21st century'_. The aim of the project is to investigate solitary waves, first documented by John Scott Russel in the 1800s. The project, carried out by Dr Momchil Terziev [^1] [^2] is based on computational research and citizen science. The former involves virtual recreation of the physics governing solitary wave generation by a boat, while the second part is centred around documenting the existence of solitary waves on Scotland's canals. 
 
 To document waves, I have set up a [submission system](/submit-data/) where you can include any photos or videos you have of solitary waves on Scotland's canals. 
 
@@ -47,3 +47,7 @@ You can also get in touch informally social media: <a href="https://twitter.com/
 This project is funded by the Royal Society of Edinburgh and carried out by [Dr Momchil Terziev](https://momchil-terziev.github.io/) who is based at the [University of Strathclyde](https://pureportal.strath.ac.uk/en/persons/momchil-terziev). You can find more information about the funding at the [funder's webpage](https://rse.org.uk/37-researchers-supported-by-rse-awards/).
 
 Status: <a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a><img alt="Last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=Last%20update">
+
+[^1]: [University webpage](https://pureportal.strath.ac.uk/en/persons/momchil-terziev/)
+
+[^2]: [Personal webpage](https://momchil-terziev.github.io/)
