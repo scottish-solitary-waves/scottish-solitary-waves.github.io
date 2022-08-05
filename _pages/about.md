@@ -29,11 +29,11 @@ pageLanguage: 'en'
 
 # Welcome
 
-Welcome! This is the webpage for the Royal Society of Edinburgh-funded project '_Russel's solitary wave in the 21st century'_. The aim of the project is to investigate solitary waves, first documented by John Scott Russel in the 1800s. The project is based on computational research and citizen science. The former involves virtual recreation of the physics governing solitary wave generation by a boat, while the second part is centred around documenting the existence of solitary waves on Scotland's canals. 
+Welcome! This is the webpage for the Royal Society of Edinburgh-funded project '_Russel's solitary wave in the 21st century'_. The aim of the project is to investigate solitary waves, first documented by John Scott Russel in the 1800s. The project, carried out by Dr Momchil Terziev is based on computational research and citizen science. The former involves virtual recreation of the physics governing solitary wave generation by a boat, while the second part is centred around documenting the existence of solitary waves on Scotland's canals. 
 
 To document waves, I have set up a [submission system](/submit-data/) where you can include any photos or videos you have of solitary waves on Scotland's canals. 
 
-Additionally, I will including my open notebook in the [Notebook](/notebook/) section of this webpage. 
+Additionally, I will include my open notebook in the [Notebook](/notebook/) section of this webpage. 
 
 This webpage is a work in progress. Having set up the main elements I will need to get the project off the ground, I will gradually include more information here and in the other sections of this webpage. 
 
