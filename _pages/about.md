@@ -39,7 +39,7 @@ This webpage is a work in progress. Having set up the main elements I will need 
 
 If you have any questions, comments, or if you would just like to get in touch, please click [here](/get-in-touch/). 
 
-You can also get in touch informally social media: <a href="https://twitter.com/m_terziev"><img alt="Follow me on twitter" src="https://img.shields.io/twitter/follow/m_terziev?style=social"></a>
+You can also get in touch informally through social media: <a href="https://twitter.com/m_terziev"><img alt="Follow me on twitter" src="https://img.shields.io/twitter/follow/m_terziev?style=social"></a>
   <a href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"><img alt="Youtube channel" src="https://img.shields.io/youtube/channel/views/UCPH-4CNVrmbyaMG7hArKsXw?style=social" href="https://www.youtube.com/channel/UCPH-4CNVrmbyaMG7hArKsXw"></a>
 
 # Funding
