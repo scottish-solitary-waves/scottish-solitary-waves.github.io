@@ -46,7 +46,11 @@ You can also get in touch informally through social media: <a href="https://twit
 
 This project is funded by the Royal Society of Edinburgh and carried out by [Dr Momchil Terziev](https://momchil-terziev.github.io/) who is based at the [University of Strathclyde](https://pureportal.strath.ac.uk/en/persons/momchil-terziev). You can find more information about the funding at the [funder's webpage](https://rse.org.uk/37-researchers-supported-by-rse-awards/).
 
-Status: <a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a><img alt="last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=last%20update"><a href="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github activity" src="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"></a>
+<a href="https://github.com/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github repository" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fscottish-solitary-waves.github.io%2F"></a>
+
+<img alt="last update" src="https://img.shields.io/github/last-commit/scottish-solitary-waves/scottish-solitary-waves.github.io?label=last%20update">
+
+<a href="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github activity" src="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"></a>
 
 [^1]: [University webpage](https://pureportal.strath.ac.uk/en/persons/momchil-terziev/)
 
