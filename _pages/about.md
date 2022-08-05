@@ -52,6 +52,6 @@ This project is funded by the Royal Society of Edinburgh and carried out by [Dr 
 
 <a href="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"><img alt="Github activity" src="https://img.shields.io/github/commit-activity/m/scottish-solitary-waves/scottish-solitary-waves.github.io"></a>
 
-[^1]: [University webpage](https://pureportal.strath.ac.uk/en/persons/momchil-terziev/)
+[^1]: [Momchil's university webpage](https://pureportal.strath.ac.uk/en/persons/momchil-terziev/)
 
-[^2]: [Personal webpage](https://momchil-terziev.github.io/)
+[^2]: [Momchil's personal webpage](https://momchil-terziev.github.io/)
