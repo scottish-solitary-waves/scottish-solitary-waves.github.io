@@ -7,7 +7,7 @@ author_profile: true
 
       
 <details>
-  <summary>
+  <summary style="font-size:14">
     What are solitary waves?
   </summary>
       <div style="background-color:#f0f0f5">
@@ -16,7 +16,6 @@ author_profile: true
   </p>
       </div>
 </details>
-<br>
 <br>
 <details>
   <summary>
