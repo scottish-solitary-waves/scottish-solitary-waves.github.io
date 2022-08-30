@@ -6,6 +6,9 @@ main:
 
   - title: "Map"
     url: /map/
+    
+  - title: "Solitary waves"
+    url: /solitons/    
 
   - title: "Open notebook"
     url: /notebook/    
