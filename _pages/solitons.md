@@ -16,7 +16,8 @@ author_profile: true
   </p>
       </div>
 </details>
-
+<br>
+<br>
 <details>
   <summary>
     How are solitary waves generated?
@@ -40,7 +41,8 @@ The image below was constructed using:
 </div>
 
 </details>
-
+<br>
+<br>
 
 <details>
   <summary>
