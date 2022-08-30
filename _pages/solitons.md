@@ -27,7 +27,7 @@ author_profile: true
   <li>Trans-critical: the depth Froude number can be $F_h>1$ or $F_h<1$, but no steady flow is possible</li>
   <li>Supercritical: the depth Froude number is higher than 1 and steady flow is possible.</li>
 </ul>                                                             
-      <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png">
+      <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="50%" height="50%">
 </div>
   </p>
 </details>
