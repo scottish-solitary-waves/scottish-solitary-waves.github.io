@@ -29,9 +29,22 @@ author_profile: true
   <li>Subcritical: the depth Froude number is below $1$ and steady flow is possible.</li>
   <li>Trans-critical: the depth Froude number can be $F_h>1$ or $F_h<1$, but no steady flow is possible</li>
   <li>Supercritical: the depth Froude number is higher than 1 and steady flow is possible.</li>
-</ul>                                                             
-  <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="50%" height="50%">Blockage-depth Froude number curve</img>
+</ul>
+          </p>
+  <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="70%" height="70%">Blockage-depth Froude number curve</img>
              
 </div>
   </p>
+</details>
+
+
+<details>
+  <summary>
+    Next steps
+  </summary>
+      <div style="background-color:#f0f0f5">
+  <p style="background-color:#f0f0f5">
+ I will add a calculator that gives the critical blockage for a given depth Froude number
+  </p>
+      </div>
 </details>
