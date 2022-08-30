@@ -1,7 +1,7 @@
 ---
 permalink: /solitons
 title: "Solitary waves"
-excerpt: "About "
+excerpt: "Solitons "
 author_profile: true
 ---
 
