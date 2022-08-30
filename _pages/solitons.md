@@ -10,8 +10,8 @@ author_profile: true
   <summary style="font-size:14">
         <b>What are solitary waves?</b>
   </summary>
-      <div style="background-color:#f0f0f5">
-  <p style="background-color:#f0f0f5">
+      <div>
+  <p>
     Solitary waves are a special class of water waves. For the purposes of this project, they are best defined by a single elevation in the water surface. A soliton will typically span the entire width of a canal. Such a wave is most likely to be seen on its own, upstream of any boat because solitons move faster than the boat that created them and can travel very long distance without changing shape.
   </p>
       </div>
@@ -22,11 +22,11 @@ author_profile: true
   <summary>
         <b>How are solitary waves generated?</b>
   </summary>
-    <div style="background-color:#f0f0f5">
-    <p style="background-color:#f0f0f5">
+    <div>
+    <p>
     Solitary waves are generated when a vessel enters the so-called trans-critical region in terms of blockage and speed. <br>
           We can express the blockage as $B=A_b/A_c$ where $A_c$ is the canal cross-sectional area and $A_b$ is the boat midship cross sectional area. We also make the speed ($V$) dimensionless by dividing it by the speed of the wave $c=\surd(gh)$, with $g=9.81m/s^2$ and $h$ being the water depth. We call that ratio the depth Froude number $F_h=V/\surd(gh)$ which is  analogous to the Mach number in aerodynamics. The figure below shows the three possible flow regimes: </p>
-          <ul style="background-color:#f0f0f5">
+          <ul>
   <li>Subcritical: the depth Froude number is below $1$ and steady flow is possible.</li>
   <li>Trans-critical: the depth Froude number can be $F_h>1$ or $F_h<1$, but no steady flow is possible</li>
   <li>Supercritical: the depth Froude number is higher than 1 and steady flow is possible.</li>
@@ -46,13 +46,13 @@ The image below was constructed using:
   <summary>
         <b>What does solitary wave generation look like?</b>
   </summary>
-         <div style="background-color:#f0f0f5">
-    <p style="background-color:#f0f0f5">
+         <div>
+    <p>
           It is convenient to use wavecuts to study how the water surface deforms due to the presence of a boat. Below is an example illustrating what a wave cut is and how we interpret this data. 
                </p>
       </div>
                <img src="https://user-images.githubusercontent.com/108955232/187453467-0ef5f191-263c-4121-854d-48d48e7501e7.png" width="100%">
-<div style="background-color:#f0f0f5">
+<div>
       The image below shows an animatated wavecut of solitary wave generation. In this case, the vessel is moving in the positive $x$ direction. The hull is located between $x=0m$ and $x=3m$.
       </div>
      <img src="https://user-images.githubusercontent.com/108955232/187429659-11846900-dc76-466b-b85a-5a3b9a686860.gif" width="100%">
