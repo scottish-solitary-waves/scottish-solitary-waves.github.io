@@ -31,10 +31,10 @@ author_profile: true
   <li>Supercritical: the depth Froude number is higher than 1 and steady flow is possible.</li>
 </ul>
           </p>
-  <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="70%" height="70%">Blockage-depth Froude number curve</img>
+  <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="70%" height="70%">
              
 </div>
-  </p>
+
 </details>
 
 
