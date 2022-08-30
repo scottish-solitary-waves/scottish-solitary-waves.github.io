@@ -46,10 +46,10 @@ The image below was constructed using:
   <summary>
         <b>What does solitary wave generation look like?</b>
   </summary>
-          <p>
+         
      <img src="https://user-images.githubusercontent.com/108955232/187429659-11846900-dc76-466b-b85a-5a3b9a686860.gif" width="100%")
           _Credit: Mr Patrick Reid_
-          </p>
+         
 
 </details>
       
