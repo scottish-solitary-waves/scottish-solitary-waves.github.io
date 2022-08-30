@@ -1,5 +1,5 @@
 ---
-permalink: /solitons
+permalink: /solitons/
 title: "Solitary waves"
 excerpt: "Solitons "
 author_profile: true
