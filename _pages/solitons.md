@@ -8,7 +8,7 @@ author_profile: true
       
 <details>
   <summary style="font-size:14">
-    What are solitary waves?
+        <b>What are solitary waves?</b>
   </summary>
       <div style="background-color:#f0f0f5">
   <p style="background-color:#f0f0f5">
@@ -16,10 +16,11 @@ author_profile: true
   </p>
       </div>
 </details>
-<br>
+
+
 <details>
   <summary>
-    How are solitary waves generated?
+        <b>How are solitary waves generated?</b>
   </summary>
     <div style="background-color:#f0f0f5">
     <p style="background-color:#f0f0f5">
@@ -40,8 +41,7 @@ The image below was constructed using:
 </div>
 
 </details>
-<br>
-<br>
+
 
 <details>
   <summary>
