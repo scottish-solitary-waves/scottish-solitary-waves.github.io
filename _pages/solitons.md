@@ -54,6 +54,7 @@ The image below was constructed using:
                <img src="https://user-images.githubusercontent.com/108955232/187453467-0ef5f191-263c-4121-854d-48d48e7501e7.png" width="100%">
 <div style="background-color:#f0f0f5">
       The image below shows an animatated wavecut of solitary wave generation. In this case, the vessel is moving in the positive $x$ direction. The hull is located between $x=0m$ and $x=3m$.
+      </div>
      <img src="https://user-images.githubusercontent.com/108955232/187429659-11846900-dc76-466b-b85a-5a3b9a686860.gif" width="100%">
       <i>Credit: Mr Patrick Reid</i>
          
