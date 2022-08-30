@@ -1,3 +1,9 @@
+---
+permalink: /solitons
+title: "Solitary waves"
+excerpt: "About "
+author_profile: true
+---
 
 <details>
   <summary>
