@@ -39,9 +39,6 @@ The image below was constructed using:
   <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png" width="70%" height="70%">
              
 </div>
-
-
-      
 </details>
 
 
@@ -49,11 +46,11 @@ The image below was constructed using:
   <summary>
         <b>What does solitary wave generation look like?</b>
   </summary>
-      
+          <p>
      <img src="https://user-images.githubusercontent.com/108955232/187429659-11846900-dc76-466b-b85a-5a3b9a686860.gif" width="100%")
+          </p>
 
-
-
+</details>
       
 <details>
   <summary>
