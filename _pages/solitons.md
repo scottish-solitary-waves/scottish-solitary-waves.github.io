@@ -10,6 +10,7 @@ author_profile: true
   <summary>
     What are solitary waves?
   </summary>
+      <div style="background-color:#f0f0f5">
   <p style="background-color:#f0f0f5">
     Solitary waves are a special class of water waves. For the purposes of this project, they are best defined by a single elevation in the water surface. A soliton will typically span the entire width of a canal. Such a wave is most likely to be seen on its own, upstream of any boat because solitons move faster than the boat that created them and can travel very long distance without changing shape.
   </p>
@@ -27,6 +28,6 @@ author_profile: true
   <li>Supercritical: the depth Froude number is higher than 1 and steady flow is possible.</li>
 </ul>                                                             
       <img src="https://user-images.githubusercontent.com/108955232/187413388-5b0c2df6-e7c6-4cc9-b863-e47dc35ef03f.png">
-
+</div>
   </p>
 </details>
