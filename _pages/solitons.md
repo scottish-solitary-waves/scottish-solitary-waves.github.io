@@ -61,7 +61,7 @@ The image below was constructed using:
          <br>
       A snapshop of the animation above in 3D: 
       
-      <img src="https://user-images.githubusercontent.com/108955232/188168891-25283781-b861-4260-bbb4-2b79ea47f2a2.png" width="100%">
+      <img src="https://user-images.githubusercontent.com/108955232/188169766-1fe887cf-583c-435f-8829-8e3ef5bfddab.png" width="100%">
       <i>Credit: Mr Patrick Reid</i>
 
 
